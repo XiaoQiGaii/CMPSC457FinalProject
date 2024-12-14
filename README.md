@@ -1,2 +1,0 @@
-# CMPSC457FinalProject
-LaJiProject
